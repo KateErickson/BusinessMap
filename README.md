@@ -1,2 +1,2 @@
 # BusinessMap
-# https://kateerickson.github.io/BusinessMap/
+https://kateerickson.github.io/BusinessMap/
